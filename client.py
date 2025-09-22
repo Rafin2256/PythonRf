@@ -1,4 +1,4 @@
 rafin = 5
-mohammed = 7
+rafuuu = 7
 
-print(rafin + mohammed)
+print(rafin + rafuuu)
